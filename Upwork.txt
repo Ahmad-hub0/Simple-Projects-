@@ -1,0 +1,20 @@
+<html>
+<head>
+
+     <title> Upwork sign up </title> 
+</head>
+<body>
+   <ul> <h1> Upwork <h1> </ul>
+
+<center>
+
+         <h1> Sign up to hire talent </h1>
+<button>
+   <span> Continue eith apple </span>
+</button>
+
+</body>
+</html>
+
+
+   

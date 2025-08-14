@@ -1,0 +1,31 @@
+<html>
+<head>
+       <title> Github Sign up </title>
+</head>
+<body>
+      <h1> Sign up for Gthub </h1>
+
+<p> Email </p>
+       <input type text="Email" name="Email" placeholder="Email" Requried><br><br>
+<p> Password </p>
+       <input type text="Password" name="Password" placeholder="password" Requried>
+<br>
+<samll style="color: gray;"> Password should be at least 15 characters OR at least 8 characters including a number and a lowercase letter.</small>
+
+<p style="color:black;"> Username </p>
+       <input type text="Username" name="username" placeholder="Username" Requried>
+<br>
+<small style="color: gray;">Username may only contain alphanumeric characters or single hyphens, and cannot begin or end with a hyphen.</small>
+
+<p small style="color: black;"> Your Country/Region </p>
+        <input type text="Pakistan" name="pakistan" placeholder="Pakistan" Requried>
+<br>
+  <small style="color:gray;"> For compliance reasons, we're required to collect country information to send you occasional updates and announcements.</small>
+
+<p style="color:black;"> Email preferences </p>
+<p> Receive occasional product updates and announcements </p>
+<p style="background-color: black; color: white; padding: 10px 20px; font-size: 18px; font-family: Arial, sans-serif; display: inline-block; border-radius: 5px;">
+  Create account >
+</form>
+</body>
+</html
